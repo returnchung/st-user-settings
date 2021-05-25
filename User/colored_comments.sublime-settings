@@ -1,0 +1,60 @@
+{
+    "tags":
+    {
+        "DEPRECATE":
+        {
+            "color":
+            {
+                "background": "rgba(204,139,202,0.1)",
+                "foreground": "#cc8bca",
+                "name": "deprecate"
+            },
+            "identifier": "DEPRECATE[:]?",
+            "is_regex": true
+        },
+        "FIXME":
+        {
+            "color":
+            {
+                "background": "rgba(1, 22, 38, 0.0)",
+                "foreground": "rgba(1, 22, 38, 0.0)",
+                "name": "fixme"
+            },
+            "identifier": "FIXME[:]?",
+            "is_regex": true
+        },
+        "IMPORTANT":
+        {
+            "color":
+            {
+                "background": "rgba(0,123,255,0.1)",
+                "foreground": "#007bff",
+                "name": "important"
+            },
+            "identifier": "IMPORTANT[:]?",
+            "is_regex": true
+        },
+        "NOTE":
+        {
+            "color":
+            {
+                "background": "rgba(219,170,50,0.1)",
+                "foreground": "#dbaa32",
+                "name": "note"
+            },
+            "identifier": "NOTE[:]?",
+            "is_regex": true
+        },
+        "TODO":
+        {
+            "color":
+            {
+                "background": "rgba(59,207,212,0.1)",
+                "foreground": "#3bcfd4",
+                "name": "todo"
+            },
+            "identifier": "TODO[:]?",
+            "is_regex": true
+        }
+    }
+}

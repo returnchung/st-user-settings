@@ -1,0 +1,67 @@
+[
+    {
+        "command": "show_panel",
+        "keys": [
+            "ctrl+option+super+b"
+        ],
+        "args": {
+            "panel": "output.exec"
+        }
+    },
+    {
+        "command": "anaconda_goto",
+        "keys": [
+            "super+alt+g"
+        ],
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.python"
+            }
+        ]
+    },
+    {
+        "command": "anaconda_find_usages",
+        "keys": [
+            "super+alt+f"
+        ],
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.python"
+            }
+        ]
+    },
+    {
+        "command": "anaconda_doc",
+        "keys": [
+            "super+alt+ctrl+d"
+        ],
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.python"
+            }
+        ]
+    },
+    {
+        "command": "pretty_json",
+        "keys": [
+            "super+option+j"
+        ]
+    },
+    {
+        "command": "un_pretty_json",
+        "keys": [
+            "super+ctrl+j"
+        ]
+    },
+    {
+        "command": "js_prettier",
+        "keys": ["ctrl+alt+p"],
+
+    }
+]

@@ -1,0 +1,24 @@
+{
+	"9o.hist.9o":
+	[
+		"helo",
+		"help",
+		"$PWD",
+		"echo ${$PWD }",
+		"go",
+		"go install",
+		"cd .",
+		"cd /",
+		"go clean",
+		"go list",
+		"go help",
+		"go run webserver",
+		"go run main.go",
+		"go replay",
+		"9o replay",
+		"go run test.go"
+	],
+	"ann": "a20.06.14-1",
+	"install_version": "r20.06.14-1",
+	"version": "r20.06.14-1"
+}

@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"BracketHighlighter",
+		"Colored Comments",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Dockerfile Syntax Highlighting",
+		"gruvbox",
+		"JsPrettier",
+		"LSP",
+		"LSP-json",
+		"LSP-typescript",
+		"Package Control",
+		"Pretty JSON",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"sublack",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json",
+		"Sublimerge 3",
+		"Terraform",
+	],
+}

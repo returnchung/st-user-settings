@@ -1,0 +1,36 @@
+{
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_face": "JetBrains Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14,
+	"gruvbox_accent_yellow": true,
+	"gruvbox_autocomplete_border_thick": true,
+	"gruvbox_colored_tooltips": true,
+	"gruvbox_folder_icons_large": true,
+	"gruvbox_highlight_active_buttons": true,
+	"gruvbox_highlight_active_tree_row": true,
+	"gruvbox_scrollbar_width_l": true,
+	"gruvbox_sidebar_font_size_12": true,
+	"gruvbox_sidebar_heading_bold": true,
+	"gruvbox_tabs_font_size_12": true,
+	"gruvbox_tabs_s": true,
+	"gruvbox_underline_active_tab": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"mini_diff": "auto",
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		79,
+		88,
+		99
+	],
+	"theme": "gruvbox.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+}

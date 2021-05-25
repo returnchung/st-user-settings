@@ -1,0 +1,4 @@
+{
+    "black_command": "/usr/local/bin/black",
+    "black_line_length": 88
+}
