@@ -29,5 +29,6 @@
 		"SublimeLinter-json",
 		"Sublimerge 3",
 		"Terraform",
+		"TrailingSpaces",
 	],
 }
