@@ -6,7 +6,7 @@
             "command": ["pylsp"],
             "selector": "source.python",
             "settings": {
-                "pylsp.configurationSources": [],
+                "pylsp.configurationSources": ["flake8"],
                 "pylsp.plugins.jedi_completion.include_params": true
             }
         }
