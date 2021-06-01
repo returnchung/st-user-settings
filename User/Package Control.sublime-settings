@@ -26,6 +26,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"Sublimerge 3",
 		"Terraform",
