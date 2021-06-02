@@ -5,13 +5,6 @@
         "windows": []
     },
     "linters": {
-        "flake8": {
-            "args": [
-				"--ignore=E203,W503",
-				"--max-line-length=88",
-				"--exclude=__pycache__,.pyc,.env"
-			]
-        },
         "eslint": {
             "selector": "source.ts, source.js - meta.attribute-with-value"
         }

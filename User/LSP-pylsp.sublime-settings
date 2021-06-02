@@ -1,0 +1,13 @@
+// Settings in here override those in "LSP-pylsp/LSP-pylsp.sublime-settings"
+
+{
+    "settings": {
+        "pylsp.configurationSources": ["flake8"],
+        "pylsp.plugins.pycodestyle.enabled": false,
+        "pylsp.plugins.flake8.enabled": false,
+        "pylsp.plugins.pydocstyle.enabled": false,
+        "pylsp.plugins.pyflakes.enabled": false,
+        "pylsp.plugins.pylint.enabled": false,
+        "pylsp.plugins.jedi_completion.include_params": true
+    }
+}
