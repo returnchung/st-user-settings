@@ -8,6 +8,6 @@
         "pylsp.plugins.pydocstyle.enabled": false,
         "pylsp.plugins.pyflakes.enabled": false,
         "pylsp.plugins.pylint.enabled": false,
-        "pylsp.plugins.jedi_completion.include_params": true
+        "pylsp.plugins.jedi_completion.include_params": true,
     }
 }
