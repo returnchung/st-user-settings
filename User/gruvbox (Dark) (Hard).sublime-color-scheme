@@ -22,6 +22,7 @@
     },
     "globals": {
         // "foreground": "var(green)",
+        "caret": "var(yellow1)",
     },
     "rules": [
         {

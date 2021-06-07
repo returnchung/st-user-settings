@@ -23,7 +23,7 @@
 		"Vintage",
 	],
 	"mini_diff": "auto",
-	"open_files_in_new_window": false,
+	"open_files_in_new_window": "never",
 	"rulers":
 	[
 		79,
@@ -33,4 +33,5 @@
 	"theme": "gruvbox.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
+	"caret_style": "phase",
 }
