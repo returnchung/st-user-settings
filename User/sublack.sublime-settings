@@ -1,4 +1,5 @@
 {
     "black_command": "/usr/local/bin/black",
-    "black_line_length": 88
+    "black_line_length": 88,
+    "black_skip_string_normalization": true
 }
