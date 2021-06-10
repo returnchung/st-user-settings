@@ -9,45 +9,6 @@
         }
     },
     {
-        "command": "anaconda_goto",
-        "keys": [
-            "super+alt+g"
-        ],
-        "context": [
-            {
-                "key": "selector",
-                "operator": "equal",
-                "operand": "source.python"
-            }
-        ]
-    },
-    {
-        "command": "anaconda_find_usages",
-        "keys": [
-            "super+alt+f"
-        ],
-        "context": [
-            {
-                "key": "selector",
-                "operator": "equal",
-                "operand": "source.python"
-            }
-        ]
-    },
-    {
-        "command": "anaconda_doc",
-        "keys": [
-            "super+alt+ctrl+d"
-        ],
-        "context": [
-            {
-                "key": "selector",
-                "operator": "equal",
-                "operand": "source.python"
-            }
-        ]
-    },
-    {
         "command": "pretty_json",
         "keys": [
             "super+option+j"
@@ -63,5 +24,26 @@
         "command": "js_prettier",
         "keys": ["ctrl+alt+p"],
 
-    }
+    },
+    {
+        "command": "lsp_symbol_definition",
+        "args": {
+            "side_by_side": false
+        },
+        "keys": [
+            "super+alt+g"
+        ],
+        "context": [
+            {
+                "key": "lsp.session_with_capability",
+                "operator": "equal",
+                "operand": "definitionProvider"
+            },
+            {
+                "key": "auto_complete_visible",
+                "operator": "equal",
+                "operand": false
+            }
+        ]
+    },
 ]
