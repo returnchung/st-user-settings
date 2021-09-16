@@ -1,5 +1,11 @@
 // Settings in here override those in "LSP-pyright/LSP-pyright.sublime-settings"
 
 {
-    
+    "settings": {
+        "python.analysis.diagnosticSeverityOverrides": {
+            "reportGeneralTypeIssues": "none",
+            "reportOptionalMemberAccess": "none",
+            "reportImplicitStringConcatenation": "none",
+        }
+    }
 }
