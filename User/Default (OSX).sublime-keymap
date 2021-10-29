@@ -9,6 +9,10 @@
         }
     },
     {
+        "command": "toggle_side_bar",
+        "keys": ["super+option+h"],
+    },
+    {
         "command": "pretty_json",
         "keys": [
             "super+option+j"
