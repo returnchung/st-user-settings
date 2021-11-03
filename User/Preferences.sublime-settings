@@ -20,7 +20,6 @@
 	"gruvbox_underline_active_tab": true,
 	"ignored_packages":
 	[
-		"SideBarEnhancements",
 		"Vintage",
 	],
 	"mini_diff": "auto",
