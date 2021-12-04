@@ -1,3 +1,3 @@
-# st-user-settings
+# Sublime Text User Settings
 
-Keep the sublime text `User Settings` up to date.
+Keep my Sublime Text Config and Plugin Setting in `User` up to date.😎
