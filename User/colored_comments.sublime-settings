@@ -31,6 +31,12 @@
             "scope": "comments.todo",
             "identifier": "TODO[:]?",
             "is_regex": true
+        },
+        "WARNING":
+        {
+            "scope": "comments.warning",
+            "identifier": "WARNING[:]?",
+            "is_regex": true
         }
     }
 }
