@@ -1,9 +1,7 @@
 {
 	"extensions":
 	[
-		"para",
-		"yaml",
-		"yml"
+		"para"
 	],
-	"tab_size": 2
+	"tab_size": 4
 }

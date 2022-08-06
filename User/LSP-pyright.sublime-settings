@@ -4,8 +4,8 @@
     "settings": {
         "python.analysis.diagnosticSeverityOverrides": {
             "reportGeneralTypeIssues": "none",
-            // "reportOptionalMemberAccess": "none",
-            // "reportImplicitStringConcatenation": "none",
+            "reportOptionalMemberAccess": "none",
+            "reportImplicitStringConcatenation": "none",
         }
     }
 }
