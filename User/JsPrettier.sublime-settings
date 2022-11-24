@@ -3,6 +3,6 @@
     "node_path": "/usr/local/bin/node",
     "prettier_options": {
         "singleQuote": true,
-        "arrowParens": "avoid"
+        "arrowParens": "always"
     },
 }
