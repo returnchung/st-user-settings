@@ -24,6 +24,7 @@
 		"LSP",
 		"LSP-bash",
 		"LSP-css",
+		"LSP-dockerfile",
 		"LSP-eslint",
 		"LSP-html",
 		"LSP-json",
