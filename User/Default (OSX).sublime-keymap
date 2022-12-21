@@ -68,5 +68,12 @@
         [
             "ctrl+shift+t"
         ]
+    },
+    {
+        "keys":
+        [
+            "super+option+i"
+        ],
+        "command": "pyisort"
     }
 ]
