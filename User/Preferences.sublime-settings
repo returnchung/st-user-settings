@@ -32,7 +32,8 @@
 	],
 	"theme": "gruvbox.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
 	"caret_style": "phase",
+	"caret_extra_width": 2,
+	"word_wrap": true,
 	"show_encoding": true,
 }
