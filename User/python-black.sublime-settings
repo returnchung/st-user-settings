@@ -1,3 +1,4 @@
 {
 	"format_on_save": "off",
+	"skip_string_normalization": true
 }
