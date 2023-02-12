@@ -2,7 +2,7 @@
     "prettier_cli_path": "/usr/local/bin/prettier",
     "node_path": "/usr/local/bin/node",
     "prettier_options": {
-        "printWidth": 127,
+        "singleQuote": true,
         "arrowParens": "avoid"
     }
 }
