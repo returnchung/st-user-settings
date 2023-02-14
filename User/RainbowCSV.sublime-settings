@@ -1,5 +1,5 @@
 // Settings in here override those in "RainbowCSV.sublime-settings"
 
 {
-    "rbql_with_headers": true
+    "rbql_with_headers": false
 }
