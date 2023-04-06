@@ -5,5 +5,12 @@
             "super+alt+b"
         ],
         "command": "black"
+    },
+    {
+        "keys":
+        [
+            "super+option+i"
+        ],
+        "command": "isort_file"
     }
 ]
