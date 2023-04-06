@@ -11,7 +11,7 @@
         "flake8": {
             // ignore not rules unanimously accepted and # noqa special comment and import *.
             "args": [
-                    "--extend-ignore=E203,W503,D",
+                    // "--extend-ignore=E203,W503,D",
                     "--exclude=.git,__pycache__,.pyc,build,dist,.venv,_src",
                 ]
         }
