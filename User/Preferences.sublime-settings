@@ -13,9 +13,9 @@
 	"gruvbox_highlight_active_buttons": true,
 	"gruvbox_highlight_active_tree_row": true,
 	"gruvbox_scrollbar_width_l": true,
-	"gruvbox_sidebar_font_size_14": true,
+	"gruvbox_sidebar_font_size_16": true,
 	"gruvbox_sidebar_heading_bold": true,
-	"gruvbox_tabs_font_size_12": true,
+	"gruvbox_tabs_font_size_14": true,
 	"gruvbox_tabs_s": true,
 	"gruvbox_underline_active_tab": true,
 	"ignored_packages":
