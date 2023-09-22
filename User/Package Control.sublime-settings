@@ -27,6 +27,7 @@
 		"LSP-css",
 		"LSP-dockerfile",
 		"LSP-eslint",
+		"LSP-gopls",
 		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
