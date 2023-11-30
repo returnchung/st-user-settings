@@ -36,4 +36,5 @@
 	"caret_extra_width": 2,
 	"word_wrap": true,
 	"show_encoding": true,
+	"index_files": true,
 }
