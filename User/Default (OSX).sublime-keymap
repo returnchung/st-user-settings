@@ -3,7 +3,7 @@
         "command": "show_panel",
         "keys":
         [
-            "ctrl+option+super+b"
+            "command+ctrl+option+b"
         ],
         "args":
         {
@@ -14,28 +14,35 @@
         "command": "toggle_side_bar",
         "keys":
         [
-            "super+option+h"
+            "command+option+h"
         ]
     },
     {
         "command": "pretty_json",
         "keys":
         [
-            "super+option+j"
+            "command+option+j"
         ]
     },
     {
         "command": "un_pretty_json",
         "keys":
         [
-            "super+ctrl+j"
+            "command+ctrl+j"
         ]
     },
     {
         "command": "js_prettier",
         "keys":
         [
-            "super+alt+p"
+            "command+alt+p"
+        ]
+    },
+    {
+        "command": "delete_trailing_spaces",
+        "keys":
+        [
+            "ctrl+shift+t"
         ]
     },
     {
@@ -46,7 +53,7 @@
         },
         "keys":
         [
-            "super+alt+g"
+            "command+alt+g"
         ],
         "context":
         [
@@ -63,10 +70,17 @@
         ]
     },
     {
-        "command": "delete_trailing_spaces",
+        "command": "lsp_code_actions",
         "keys":
         [
-            "ctrl+shift+t"
+            "ctrl+a"
+        ]
+    },
+    {
+        "command": "lsp_format_document",
+        "keys":
+        [
+            "command+option+b"
         ]
     }
 ]
