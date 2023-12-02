@@ -20,6 +20,9 @@
 	"gruvbox_underline_active_tab": true,
 	"ignored_packages":
 	[
+		"isorted",
+		"python-black",
+		"SublimeLinter-flake8",
 		"Vintage",
 	],
 	"mini_diff": "auto",
