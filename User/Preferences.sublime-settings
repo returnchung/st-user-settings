@@ -20,6 +20,7 @@
 	"gruvbox_underline_active_tab": true,
 	"ignored_packages":
 	[
+		"LSP-cspell",
 		"LSP-ruff",
 		"Vintage",
 	],

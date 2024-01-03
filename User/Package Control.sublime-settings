@@ -24,6 +24,7 @@
 		"JsPrettier",
 		"LSP",
 		"LSP-bash",
+		"LSP-cspell",
 		"LSP-css",
 		"LSP-dockerfile",
 		"LSP-eslint",
