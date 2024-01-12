@@ -68,5 +68,19 @@
                 "operand": false
             }
         ]
+    },
+    {
+        "command": "lsp_code_actions",
+        "keys":
+        [
+            "ctrl+a"
+        ]
+    },
+    {
+        "command": "lsp_format_document",
+        "keys":
+        [
+            "command+option+k"
+        ]
     }
 ]
