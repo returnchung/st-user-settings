@@ -1,11 +1,12 @@
 [
-    {
-        "keys":
-        [
-            "super+alt+b"
-        ],
-        "command": "black"
-    },
+    // Use LSP-ruff format instead
+    // {
+    //     "keys":
+    //     [
+    //         "super+alt+b"
+    //     ],
+    //     "command": "black"
+    // },
     {
         "keys":
         [

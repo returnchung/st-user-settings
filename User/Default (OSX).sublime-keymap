@@ -80,7 +80,7 @@
         "command": "lsp_format_document",
         "keys":
         [
-            "command+option+k"
+            "command+option+b"
         ]
     }
 ]
