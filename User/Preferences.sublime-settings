@@ -21,7 +21,6 @@
 	"ignored_packages":
 	[
 		"LSP-cspell",
-		"LSP-ruff",
 		"Vintage",
 	],
 	"mini_diff": "auto",
