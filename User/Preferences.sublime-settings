@@ -21,6 +21,7 @@
 	"ignored_packages":
 	[
 		"LSP-cspell",
+		"SublimeLinter-flake8",
 		"Vintage",
 	],
 	"mini_diff": "auto",
