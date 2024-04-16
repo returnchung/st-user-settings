@@ -41,7 +41,6 @@
 		"requirementstxt",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-ruff",
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"Sublimerge 3",
