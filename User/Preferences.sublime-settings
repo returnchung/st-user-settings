@@ -20,9 +20,6 @@
 	"gruvbox_underline_active_tab": true,
 	"ignored_packages":
 	[
-		"LSP-cspell",
-		"SublimeLinter-flake8",
-		"Vintage",
 	],
 	"mini_diff": "auto",
 	"open_files_in_new_window": "never",
@@ -39,4 +36,5 @@
 	"word_wrap": true,
 	"show_encoding": true,
 	"index_files": true,
+	"update_check": true,
 }
