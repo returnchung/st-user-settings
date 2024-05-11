@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"0x0",
 		"A File Icon",
 		"AdvancedNewFile",
 		"BracketHighlighter",
@@ -33,7 +34,6 @@
 		"LSP-ruff",
 		"LSP-terraform",
 		"LSP-typescript",
-		"LSP-yaml",
 		"Package Control",
 		"Pretty JSON",
 		"python-black",
