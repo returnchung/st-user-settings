@@ -82,9 +82,5 @@
         [
             "command+option+b"
         ]
-    },
-    {
-        "command": "open_terminal",
-        "keys": ["super+shift+t"]
-    },
+    }
 ]
