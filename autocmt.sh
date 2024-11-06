@@ -6,12 +6,11 @@ cd $WORKDIR;
 any_chg=$(git diff | grep 'diff --git');
 if [ ! -z "$any_chg" ]
 then
-    DATE=`date +%Y%m%d%H%M%S`;
+    DATE=`date +%Y-%m-%dT%H:%M:%S`;
     git add . ;
     git commit -m "feat: autocmt on $DATE";
     git push origin;
-    echo "Autocommit"; 
+    echo "[$DATE] Autocommit";
 else
-    echo "Nothing changed";
+    echo "[$DATE] Nothing changed";
 fi
-
