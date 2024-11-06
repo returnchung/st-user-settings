@@ -6,12 +6,14 @@
 	"installed_packages":
 	[
 		"0x0",
+		"1337 Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Case Conversion",
 		"ChannelRepositoryTools",
 		"Colored Comments",
+		"Compare Side-By-Side",
 		"Debugger",
 		"DocBlockr",
 		"DocBlockr_Python",
