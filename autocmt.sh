@@ -1,6 +1,8 @@
 #!/bin/sh
 
-
+WORKDIR=$(dirname $(realpath "$0"));
+cd $WORKDIR;
+./run.sh;
 any_chg=$(git diff | grep 'diff --git');
 if [ ! -z "$any_chg" ]
 then
