@@ -15,12 +15,14 @@
         "todo_comment": "#3bcfd4",
         "fixme_comment": "#b53333",
         "warning_comment": "#ffff00",
+        "test3a_comment": "#00ff00",
         "bg_important_comment": "rgba(0,123,255,0.1)",
         "bg_deprecated_comment": "rgba(204,139,202,0.1)",
         "bg_noted_comment": "rgba(1,22,38, 0.1)",
         "bg_todo_comment": "rgba(59,207,212,0.1)",
         "bg_fixme_comment": "rgba(181,51,51,0.1)",
         "bg_warning_comment": "rgba(255,255,189,0.1)",
+        "bg_test3a_comment": "rgba(0,255,0,0.1)",
     },
     "globals": {
         // "foreground": "var(green)",
@@ -62,6 +64,12 @@
             "scope": "comments.warning",
             "foreground": "var(warning_comment)",
             "background": "var(bg_warning_comment)",
+        },
+        {
+            "name": "TEST3A COMMENTS",
+            "scope": "comments.test3a",
+            "foreground": "var(test3a_comment)",
+            "background": "var(bg_test3a_comment)",
         }
         // {
         //     "name": "UNDEFINED COMMENTS",

@@ -37,6 +37,13 @@
             "scope": "comments.warning",
             "identifier": "WARNING[:]?",
             "is_regex": true
-        }
+        },
+        "TEST3A":
+        {
+            "scope": "comments.test3a",
+            "identifier": "(ARRANGE|ACT|ASSERT)[:]?",
+            "is_regex": true,
+            "ignorecase": true,
+        },
     }
 }
