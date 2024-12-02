@@ -2,5 +2,6 @@
 	"extensions":
 	[
 		"sublime-project"
-	]
+	],
+	"lsp_format_on_save": false
 }
