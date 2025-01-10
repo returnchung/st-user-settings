@@ -35,14 +35,14 @@
         "command": "js_prettier",
         "keys":
         [
-            "command+alt+p"
+            "command+option+p"
         ]
     },
     {
-        "command": "delete_trailing_spaces",
+        "command": "trim_trailing_white_space",
         "keys":
         [
-            "ctrl+shift+t"
+            "command+option+t"
         ]
     },
     {
@@ -53,7 +53,7 @@
         },
         "keys":
         [
-            "command+alt+g"
+            "command+option+g"
         ],
         "context":
         [

@@ -16,6 +16,7 @@
         "fixme_comment": "#b53333",
         "warning_comment": "#ffff00",
         "test3a_comment": "#00ff00",
+        "invalid_trailing_whitespaces": "#FF0000",
         "bg_important_comment": "rgba(0,123,255,0.1)",
         "bg_deprecated_comment": "rgba(204,139,202,0.1)",
         "bg_noted_comment": "rgba(1,22,38, 0.1)",
@@ -23,12 +24,18 @@
         "bg_fixme_comment": "rgba(181,51,51,0.1)",
         "bg_warning_comment": "rgba(255,255,189,0.1)",
         "bg_test3a_comment": "rgba(0,255,0,0.1)",
+        "bg_invalid_trailing_whitespaces": "rgba(255, 0, 0, 0.2)",
     },
     "globals": {
         // "foreground": "var(green)",
         "caret": "var(yellow1)",
     },
     "rules": [
+        {
+            "scope": "invalid.trailing-whitespace",
+            "foreground": "var(invalid_trailing_whitespaces)",
+            "background": "var(bg_invalid_trailing_whitespaces)",
+        },
         {
             "name": "IMPORTANT COMMENTS",
             "scope": "comments.important",
